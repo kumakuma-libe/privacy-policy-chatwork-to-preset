@@ -1,0 +1,8 @@
+# 公開リポジトリのため、手元の秘密情報や OS の管理ファイルを誤って載せない
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
